@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pavtheone
+- 👋 Hi, I’m Szymon
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PhP, Javascript, Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some projects to learn more about
 - 📫 You can get in touch with me whiterabbit.webdesign89@gmail.com
 
